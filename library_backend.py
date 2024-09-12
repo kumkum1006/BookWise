@@ -12,7 +12,7 @@ class Library:
         # Check if user's CSV file exists, if not, create a new one
         if not os.path.exists(self.csv_file):
             df = pd.DataFrame(
-                columns=["Title", "Author", "ISBN", "Copies", "Read Within"]
+                columns=["Title", "Author", "ISBN", "Copies", "Read WithIn"]
             )
             df.to_csv(self.csv_file, index=False)
 

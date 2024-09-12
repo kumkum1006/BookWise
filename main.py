@@ -31,7 +31,7 @@ if user_id:
         df = pd.read_csv(csv_file)
     else:
         st.data_editor(
-            pd.DataFrame(columns=["Title", "Author", "ISBN", "Copies", "Read Within"]),
+            pd.DataFrame(columns=["Title", "Author", "ISBN", "Copies", "Read WithIn"]),
             use_container_width=True,
         )
 
