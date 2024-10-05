@@ -20,7 +20,7 @@ hide_isbn_css = """
 """
 st.markdown(hide_isbn_css, unsafe_allow_html=True)
 
-st.title("Library Management Sytem")
+st.title("Library Management System")
 user_id = st.text_input("Please enter your email address")
 
 if user_id:
