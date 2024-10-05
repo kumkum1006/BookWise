@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-<p>Welcome to the 'ReelFeel Analyzer' GitHub repository! Library Management System is a user-friendly web application built with Streamlit, designed to help users manage their personal book collections. The system allows users to add, check in, and check out books with real-time inventory updates. Each user has a personalized library stored in separate CSV files, ensuring privacy and data separation. The application also supports the ability to download the library data in both CSV and Excel formats, making it easy to manage and backup collections. The project demonstrates seamless integration of file handling, real-time user interaction, and data export features, providing a complete solution for library management.</p>
+<p>Welcome to the 'BookWise' GitHub repository! Library Management System is a user-friendly web application built with Streamlit, designed to help users manage their personal book collections. The system allows users to add, check in, and check out books with real-time inventory updates. Each user has a personalized library stored in separate CSV files, ensuring privacy and data separation. The application also supports the ability to download the library data in both CSV and Excel formats, making it easy to manage and backup collections. The project demonstrates seamless integration of file handling, real-time user interaction, and data export features, providing a complete solution for library management.</p>
 
 <h4> <a href="https://the-bookwise.streamlit.app/"> Live Demo </a> <span> · </span> <a href="https://github.com/kumkum1006/BookWise/issues"> Report Bug </a>
 
